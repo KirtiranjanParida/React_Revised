@@ -1,2 +1,2 @@
 # React_Revised
-once again i am revise react
+const [ name,setName] = useState("") --> const [variable: store the value,function: to update the value]
